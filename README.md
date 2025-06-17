@@ -1,6 +1,4 @@
 
-    }
-  </style>
 </head>
 <body>
   <h1>Промокод: BLESSED</h1>
